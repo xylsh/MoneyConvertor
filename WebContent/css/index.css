@@ -1,0 +1,53 @@
+@CHARSET "UTF-8";
+
+body {
+	/*font-family:"Arial","Helvetica","sans-serif";*/
+	font-family: Palatino, georgia, "times new roman", "宋体";
+	background-color: #f5f5d5;
+}
+.header{
+	display: block;
+	width: 530px;
+	margin: 5px auto;
+}
+h1 a {
+	text-decoration: none;
+	color: black;
+}
+
+h1 a:hover {
+	color: red;
+}
+
+.form {
+	display: block;
+	width: 530px;
+	height: auto;
+	margin: 5px auto;
+	line-height: 33px;
+	/*border:1px solid #ccc;*/
+}
+
+.moneytext {
+	width: 300px;
+	border: 1px solid #ccc;
+}
+
+.resulttext {
+	width: 430px;
+	border: 1px solid #ccc;
+}
+
+/*
+.footer {
+	display: block;
+	margin-top: 30px;
+	text-align: center;
+	font-size: 15px;
+	font-style: italic;
+	color: #808080;
+}
+
+.footer a {
+	color: #808080;
+}*/

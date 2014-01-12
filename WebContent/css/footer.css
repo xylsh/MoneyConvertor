@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+
+.footer {
+    display: block;
+    margin-top: 30px;
+    text-align: center;
+    font-size: 15px;
+    font-style: italic;
+    color: #808080;
+}
+
+.footer a {
+    color: #808080;
+}
+
+.hide {
+    display: none;
+}
